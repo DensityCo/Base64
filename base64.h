@@ -9,7 +9,7 @@
 #define BASE46_H
 
 #include <stdlib.h>
-#include <memory.h>
+//#include <memory.h>
 
 
 /***********************************************
